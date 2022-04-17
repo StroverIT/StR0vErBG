@@ -31,7 +31,7 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <br/>
----
+
 &nbsp;&nbsp;
 
 <details>
