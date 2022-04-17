@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />][https://www.facebook.com/StR0vErBG/]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />][facebook]
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/facebook.svg" />
 &nbsp;&nbsp;
 
