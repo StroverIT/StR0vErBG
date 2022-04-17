@@ -13,7 +13,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />][https://www.facebook.com/StR0vErBG/]
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/facebook.svg" />
 &nbsp;&nbsp;
 
 ### Languages and Tools:
